@@ -88,5 +88,5 @@ Confirm that ImageMagick is properly set up by executing `convert -help` in a te
 
 - Add support for more file types
 - Add ability to add prefix to files in `previews` and `thumbs`
-- Tests for erg-prep
+- Tests for epg-prep
 - Add feature to randomize photo order on each load
